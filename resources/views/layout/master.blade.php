@@ -30,7 +30,7 @@
   <!-- CSS Just for demo purpose, don't include it in your project -->
   <link href="{{asset('assets/demo/demo.css')}}" rel="stylesheet" />
   <!-- botstrap -->
-  <link rel="stylesheet" href="{{ asset('resources/css/bootstrap.css') }}">
+  <link rel="stylesheet" href="{{ asset('asset/bootstrap/css/bootstrap.min.css') }}">
 </head>
 
 <body class="dark-edition">

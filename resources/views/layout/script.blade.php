@@ -1,4 +1,4 @@
-
+      <script src="{{ asset('assets/bootstrap/js/bootstrap.min.js') }}"></script>
       <script>
         const x = new Date().getFullYear();
         let date = document.getElementById('date');
